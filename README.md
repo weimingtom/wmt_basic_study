@@ -2,7 +2,6 @@
 My Basic Language study
 
 ## TODO  
-* https://github.com/paladin-t/my_basic  
 * https://github.com/Timu5/BasicSharp  
 
 ## treytomes/ecma_basic, by csharp, interpreter and script engine      
@@ -15,3 +14,7 @@ My Basic Language study
 * (only exe, source not complete) 编程高手箴言_第四章  
 * (support mingw, TinyBASIC.c) https://github.com/amihart/MIPSelBinaries  
 * (only support DOSBOX Turbo C 2.0, TC2) https://github.com/noczero/PASCAL-DAP/blob/master/Tubes/References/HPSource/Source16/C/BAS-INT/BAS-INT.C  
+
+## my_basic  
+* https://github.com/paladin-t/my_basic  
+* search baidupan, my_basic_v1_mingw_run_sunccess.rar  
