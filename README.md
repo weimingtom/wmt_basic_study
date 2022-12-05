@@ -21,3 +21,5 @@ My Basic Language study
 ## my_basic  
 * https://github.com/paladin-t/my_basic  
 * search baidupan, my_basic_v1_mingw_run_sunccess.rar  
+
+## Proteus 7 samples, vsm for m68hc11, for 8051  
