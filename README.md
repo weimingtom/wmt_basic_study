@@ -33,3 +33,6 @@ My Basic Language study
 * 表现出作者对金钱的不屑——致敬！
 * 转自，你所熟悉和陌生的BASIC  
 * http://blog.chinaunix.net/uid-8581780-id-347017.html  
+
+## Intel 8080 CPU Emulator, MS 8K BASIC, Dr. Li-Chen Wang Tiny BASIC 1976 (use UPPER case)  
+* https://www.tramm.li/i8080/  
