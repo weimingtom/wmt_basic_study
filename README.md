@@ -39,3 +39,10 @@ My Basic Language study
 * https://www.tramm.li/i8080/  
 
 ## Basic 趣味程序选  
+
+## 101 BASIC Computer Games  
+我顺便找到一本书《101 BASIC Computer Games》，这本书比较有名，  
+然后有人把它移植到CSharp和Java，在gh上：basic-computer-games。  
+不过应该没有中文翻译本，配图的，我觉得很有趣，我怀疑以前图书馆会有很多这类旧书，  
+毕竟我在图书馆找到过更古老的编程语言的代码书，全是示例代码。  
+也可以参考这篇《复活80年代的游戏代码，它们出自第一本售出百万册的计算机书籍》  
