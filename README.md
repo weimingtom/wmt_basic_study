@@ -39,6 +39,11 @@ My Basic Language study
 * 转自，你所熟悉和陌生的BASIC  
 * http://blog.chinaunix.net/uid-8581780-id-347017.html  
 * TINY BASIC FOR INTEL 8080  
+* 我认为研究basic（旧版）也可以用来研究OS，只不过这个OS是DOS那边的闭源OS。  
+* 典型例子是MS-DOS的MS-BASIC和更早期的CP/M的TINYBASIC，确实有人做8080的虚拟机来运行TINYBASIC，  
+* 而8080的移植版称为Palo Alto Tiny BASIC，最早是Li-Chen Wang写的，  
+* 他好像是比较早使用copyleft，所以这个Palo Alto Tiny BASIC是开源的——当然这是汇编实现的。  
+* 详细可以参考这篇《你所熟悉和陌生的BASIC》
 
 ## Intel 8080 CPU Emulator, MS 8K BASIC, Dr. Li-Chen Wang Tiny BASIC 1976 (use UPPER case)  
 * https://www.tramm.li/i8080/  
