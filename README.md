@@ -7,9 +7,11 @@ My Basic Language study
 * https://github.com/arucil/gvbasic-simulator4cpp  
 * https://github.com/Klaus2m5/6502_EhBASIC_V2.22  
 
-## treytomes/ecma_basic, by csharp, interpreter and script engine      
+## (IMP) treytomes/ecma_basic, by csharp, interpreter and script engine      
 * https://github.com/treytomes/ecma_basic  
 * search baidupan, ECMABasic55_v1_20221106_build_success.rar  
+* search ECMABasic55_v2.rar  
+* basic_编程高手箴言  
 
 ## BAS-INT (original compiled with Turbo C 2.0 under DOS, gcc mod named TinyBASIC), by C, script engine  
 * https://www.drdobbs.com/cpp/building-your-own-c-interpreter/184408184  
