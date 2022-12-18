@@ -23,3 +23,13 @@ My Basic Language study
 * search baidupan, my_basic_v1_mingw_run_sunccess.rar  
 
 ## Proteus 7 samples, vsm for m68hc11, for 8051  
+
+## LI-CHEN WANG's tinybasic  
+* https://github.com/maly/arduino8080basic/blob/master/src/tinybasic.a80  
+* Tiny BASIC Li-Chen Wang博士(华裔？)在二十世纪70年代中叶发表了第一个真正用于微处理器的BASIC版本，  
+* 可以运行于任何Intel 8080及Zilog Z80 微处理器上， 需要2KB内存，使用纸带输入。  
+* 最早版本Palo Alto Tiny BASIC于1976年5月发表在著名计算机杂志Dr. Dobb's。  
+* 这是个自由版本，源代码中含有"All Wrongs Reserved"和"CopyLeft" 字样，  
+* 表现出作者对金钱的不屑——致敬！
+* 转自，你所熟悉和陌生的BASIC  
+* http://blog.chinaunix.net/uid-8581780-id-347017.html  
