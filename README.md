@@ -4,6 +4,9 @@ My Basic Language study
 ## (IMP) tinybasic csharp port  
 * search baidupan, tinybasic_v3_csharp_failed.rar  
 * search baidupan, tinybasic_v13_final_success.rar  
+* 不过仔细想想，研究basic诸如bas-int之类的实现，其实有一点点用，因为它很有可能是可重入的  
+（调用栈短而且有一个大的执行循环），类似于onscripter。相比而言，lua不太适合做成可重入抢占式，  
+虽然lua是可以挂起来，不过很容易循环出不去，无法主动将其挂起  
 
 ## TODO  
 * https://github.com/Timu5/BasicSharp  
