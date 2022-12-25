@@ -49,8 +49,28 @@ My Basic Language study
 * 他好像是比较早使用copyleft，所以这个Palo Alto Tiny BASIC是开源的——当然这是汇编实现的。  
 * 详细可以参考这篇《你所熟悉和陌生的BASIC》
 
-## Intel 8080 CPU Emulator, MS 8K BASIC, Dr. Li-Chen Wang Tiny BASIC 1976 (use UPPER case)  
+## (TODO) Intel 8080 CPU Emulator, MS 8K BASIC, Dr. Li-Chen Wang Tiny BASIC 1976 (use UPPER case)  
 * https://www.tramm.li/i8080/  
+* https://www.tramm.li/i8080/emu8080.html  
+* MS 8K BASIC  
+```
+>>> r
+>>> r basic.hex  
+>>> g 1000
+let a = 1000
+print a
+exit
+```
+* Dr. Li-Chen Wang Tiny BASIC 1976 (use UPPER case)  
+```
+>>> r
+>>> r tinybas.hex  
+>>> g 0
+(!!!!!!!! below, should use UPPER CASE !!!!!!!!)  
+> LET A = 1000
+> PRINT A
+```
+
 
 ## Basic 趣味程序选  
 
