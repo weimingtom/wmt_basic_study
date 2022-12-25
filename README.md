@@ -70,7 +70,7 @@ exit
 > LET A = 1000
 > PRINT A
 ```
-
+* search baidupan, emu8080_v2.rar  
 
 ## Basic 趣味程序选  
 
