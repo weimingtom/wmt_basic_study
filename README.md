@@ -69,6 +69,7 @@ exit
 (!!!!!!!! below, should use UPPER CASE !!!!!!!!)  
 > LET A = 1000
 > PRINT A
+> BYE
 ```
 * search baidupan, emu8080_v2.rar  
 
