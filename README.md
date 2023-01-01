@@ -1,6 +1,9 @@
 # wmt_basic_study
 My Basic Language study
 
+## tinyBasic2  
+* https://github.com/iruka-/ORANGEpico/blob/master/samples/tinyBasic2/tinybasic.c  
+
 ## minimax8085  
 * https://github.com/skiselev/minimax8085/blob/master/software/8kbasic/8kbasic-mini85.asm  
 * https://github.com/skiselev/minimax8085/blob/master/software/tinybasic/tinybasic-2.0.asm  
