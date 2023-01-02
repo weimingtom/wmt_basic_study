@@ -1,7 +1,7 @@
 # wmt_basic_study
 My Basic Language study
 
-## tinyBasic2  
+## tinyBasic2, mod from bas-int    
 * https://github.com/iruka-/ORANGEpico/blob/master/samples/tinyBasic2/tinybasic.c  
 
 ## minimax8085  
