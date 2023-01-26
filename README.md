@@ -1,6 +1,13 @@
 # wmt_basic_study
 My Basic Language study
 
+## TODO  
+* (IMP) port back to C  
+* https://github.com/Timu5/BasicSharp  
+* https://github.com/microsoft/GW-BASIC  
+* https://github.com/arucil/gvbasic-simulator4cpp  
+* https://github.com/Klaus2m5/6502_EhBASIC_V2.22  
+
 ## tinyBasic2, TinyBASIC2 with SDL and SDL_gfx functions, mod from BAS-INT      
 * https://github.com/iruka-/ORANGEpico/blob/master/samples/tinyBasic2/tinybasic.c  
 * https://www.raspberrypi.com/news/tinybasic-for-raspberry-pi/
@@ -21,12 +28,6 @@ My Basic Language study
 * 不过仔细想想，研究basic诸如bas-int之类的实现，其实有一点点用，因为它很有可能是可重入的  
 （调用栈短而且有一个大的执行循环），类似于onscripter。相比而言，lua不太适合做成可重入抢占式，  
 虽然lua是可以挂起来，不过很容易循环出不去，无法主动将其挂起  
-
-## TODO  
-* https://github.com/Timu5/BasicSharp  
-* https://github.com/microsoft/GW-BASIC  
-* https://github.com/arucil/gvbasic-simulator4cpp  
-* https://github.com/Klaus2m5/6502_EhBASIC_V2.22  
 
 ## (IMP) treytomes/ecma_basic, by csharp, interpreter and script engine      
 * https://github.com/treytomes/ecma_basic  
