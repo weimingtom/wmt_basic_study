@@ -9,7 +9,9 @@ My Basic Language study
 * https://github.com/Klaus2m5/6502_EhBASIC_V2.22  
 
 ## N88-BASIC  
-* https://github.com/barbeque/n88-basic-reference/blob/master/index.md
+* https://github.com/barbeque/n88-basic-reference/blob/master/index.md  
+* https://github.com/YutoMizutani/bowling-game-written-by-n88BASIC  
+* NEC PC98  
 
 ## tinyBasic2, TinyBASIC2 with SDL and SDL_gfx functions, mod from BAS-INT      
 * https://github.com/iruka-/ORANGEpico/blob/master/samples/tinyBasic2/tinybasic.c  
