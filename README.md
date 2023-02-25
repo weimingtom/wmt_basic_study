@@ -21,6 +21,7 @@ My Basic Language study
 * https://github.com/barbeque/n88-basic-reference/blob/master/index.md  
 * https://github.com/YutoMizutani/bowling-game-written-by-n88BASIC  
 * NEC PC98  
+* https://github.com/2540825244/N88-SpaceShooter  
 
 ## tinyBasic2, TinyBASIC2 with SDL and SDL_gfx functions, mod from BAS-INT      
 * https://github.com/iruka-/ORANGEpico/blob/master/samples/tinyBasic2/tinybasic.c  
