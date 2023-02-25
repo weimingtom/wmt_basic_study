@@ -8,6 +8,15 @@ My Basic Language study
 * https://github.com/arucil/gvbasic-simulator4cpp  
 * https://github.com/Klaus2m5/6502_EhBASIC_V2.22  
 
+## picbasic  
+* PIC单片机BASIC编程项目开发  
+
+## casio basic  
+* Casio卡西欧fx-5800p  
+
+## EL_BASIC 98  
+* https://github.com/tyama501/micro_e  
+
 ## N88-BASIC  
 * https://github.com/barbeque/n88-basic-reference/blob/master/index.md  
 * https://github.com/YutoMizutani/bowling-game-written-by-n88BASIC  
