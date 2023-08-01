@@ -136,4 +136,8 @@ exit
 * http://8bs.com/submit/basicemulator.zip  
 
 ## 【熟肉】盖茨逊爆了？：C64 BASIC里隐藏的反微软彩蛋  
-* https://www.bilibili.com/video/BV1RP4y1c7V8  
+* https://www.bilibili.com/video/BV1RP4y1c7V8
+
+## cbmbasic  
+* https://github.com/mist64/cbmbasic
+
