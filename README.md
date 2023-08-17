@@ -141,3 +141,6 @@ exit
 ## cbmbasic  
 * https://github.com/mist64/cbmbasic
 
+## N88-BASIC ESP32  
+* https://github.com/shikarunochi/m5n88Q
+* https://docs.libretro.com/library/quasi88/  
