@@ -7,7 +7,8 @@ My Basic Language study
 * https://github.com/microsoft/GW-BASIC  
 * https://github.com/arucil/gvbasic-simulator4cpp  
 * https://github.com/Klaus2m5/6502_EhBASIC_V2.22
-* tramm i8080 html emulator, Emu8080, Intel 8080 CPU Emulator  
+* (TODO) tramm i8080 html emulator, Emu8080, Intel 8080 CPU Emulator  
+emu8080_java_v3.rar  
 
 ## (IMP) tinybasic csharp and cpp port  
 * https://github.com/weimingtom/tinybasic_csharp  
