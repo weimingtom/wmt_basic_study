@@ -148,7 +148,7 @@ exit
 * https://github.com/shikarunochi/m5n88Q
 * https://docs.libretro.com/library/quasi88/  
 
-## PC-BASIC  
+## PC-BASIC, for python3 under linux      
 * https://robhagemans.github.io/pcbasic/doc/2.0/#installation  
 * 用ai studio运行pcbasic，效果如下：
 ```
@@ -156,3 +156,6 @@ pip3 install pcbasic
 pcbasic --interface=text  
 和其他BASIC解释器不同，这个解释器的退出命令是SYSTEM，不是EXIT或者QUIT或者BYE  
 ```
+
+## Altair BASIC  
+* https://sourceforge.net/projects/memu/  
