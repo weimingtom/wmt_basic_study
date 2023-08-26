@@ -159,3 +159,4 @@ pcbasic --interface=text
 
 ## Altair BASIC  
 * https://sourceforge.net/projects/memu/  
+(TODO) not run success, but see asm and bin files    
