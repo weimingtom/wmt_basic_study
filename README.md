@@ -160,3 +160,7 @@ pcbasic --interface=text
 ## Altair BASIC  
 * https://sourceforge.net/projects/memu/  
 (TODO) not run success, but see asm and bin files    
+
+## (IMP) Girlbasic2k, like TinyBasic  
+* https://github.com/netspooky/hardcode/blob/master/02048/dos/girl%20basic%202kb/Girlbasic2k.asm  
+* http://flatassembler.net/download.php  
