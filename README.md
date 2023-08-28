@@ -164,3 +164,8 @@ pcbasic --interface=text
 ## (IMP) Girlbasic2k, like TinyBasic  
 * https://github.com/netspooky/hardcode/blob/master/02048/dos/girl%20basic%202kb/Girlbasic2k.asm  
 * http://flatassembler.net/download.php  
+
+## BASIC-52   
+* https://github.com/freecores/t51/blob/master/sw/BASIC-52.asm
+* Proteus 7 Professional_SAMPLES.rar  
+
