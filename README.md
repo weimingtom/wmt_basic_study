@@ -164,7 +164,7 @@ pcbasic --interface=text
 ## (IMP) Girlbasic2k, like TinyBasic  
 * https://github.com/netspooky/hardcode/blob/master/02048/dos/girl%20basic%202kb/Girlbasic2k.asm  
 * http://flatassembler.net/download.php
-* (IMP) search baidupan, 2kb_ver3, for emu8080    
+* (IMP) search baidupan, 2kb_ver4, for emu8080    
 
 ## BASIC-52   
 * https://github.com/freecores/t51/blob/master/sw/BASIC-52.asm
