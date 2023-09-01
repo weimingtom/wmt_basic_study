@@ -188,3 +188,6 @@ pcbasic --interface=text
 
 ## tastybasic  
 * https://github.com/wwarthen/RomWBW/blob/master/Source/TastyBasic/src/tastybasic.asm  
+
+## Tiny BASIC for the CS01  
+* https://github.com/robfinch/Cores/blob/master/CS01/software/boot/TinyBasic.asm  
