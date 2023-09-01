@@ -199,3 +199,6 @@ pcbasic --interface=text
 * https://github.com/nanochess/IntyBASIC
 * https://github.com/jefftranter/6800/blob/master/sbc/software/tinybasic.asm  
 
+## EhBASIC for 6502  
+* https://github.com/Klaus2m5/6502_EhBASIC_V2.22/blob/master/basic.asm  
+* https://github.com/Juan-Gg/microcoded6502/blob/master/Assembly%20programs/GraphicsV29.asm  
