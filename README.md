@@ -208,5 +208,5 @@ pcbasic --interface=text
 * https://karaage.hatenadiary.jp/entry/2020/03/23/073000  
 * https://github.com/taisukef/bootBASIC_64bit/blob/master/basic.asm  
 
-## TINY8086, asm  
+## (TODO) TINY8086, asm, with nasm and boches    
 * https://github.com/Honneamise/TINY8086  
