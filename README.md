@@ -207,3 +207,6 @@ pcbasic --interface=text
 * https://fukuno.jig.jp/2853  
 * https://karaage.hatenadiary.jp/entry/2020/03/23/073000  
 * https://github.com/taisukef/bootBASIC_64bit/blob/master/basic.asm  
+
+## TINY8086, asm  
+* https://github.com/Honneamise/TINY8086  
