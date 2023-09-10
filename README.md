@@ -10,6 +10,13 @@ My Basic Language study
 * (TODO) tramm i8080 html emulator, Emu8080, Intel 8080 CPU Emulator  
 emu8080_java_v3.rar  
 
+## (IMP, TODO) work_emu8080  
+* 待整理
+* 2kb_nasm-2.07_v3_good
+* 2kb_ver8
+* bootbasic
+* dump_arduinobasic  
+
 ## (IMP) tinybasic csharp and cpp port  
 * https://github.com/weimingtom/tinybasic_csharp  
 * search baidupan, tinybasic_v3_csharp_failed.rar  
