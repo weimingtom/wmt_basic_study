@@ -210,3 +210,14 @@ pcbasic --interface=text
 
 ## (TODO) TINY8086, asm, with nasm and boches    
 * https://github.com/Honneamise/TINY8086  
+
+## klbasic, BASIC11  
+* https://seanet.com/~karllunt/klbasic_main.html  
+* https://hackaday.com/2011/08/28/basic-programming-on-an-arduino/  
+* https://hackaday.com/2012/05/01/arduino-basic-interpreter-using-lcd-keyboard-and-sd/  
+* https://hackaday.com/2012/05/03/basic-for-some-beefy-avrchips/  
+* https://github.com/tonypdmtr/BASIC11  
+
+## ehbasic, easy68k, m68k  
+* http://www.easy68k.com/easy68kexamples.htm  
+* http://www.easy68k.com/examples/ehbasic.zip  
