@@ -237,5 +237,6 @@ pcbasic --interface=text
 * https://www.cnblogs.com/cway/p/12794979.html  
 
 ## bootBasic, bootOS   
-https://blog.csdn.net/weixin_42169971/article/details/116949435  
-https://github.com/nanochess/bootOS  
+* https://github.com/nanochess/bootBASIC  
+* https://blog.csdn.net/weixin_42169971/article/details/116949435  
+* https://github.com/nanochess/bootOS  
