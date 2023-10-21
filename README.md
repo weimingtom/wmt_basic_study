@@ -235,3 +235,7 @@ pcbasic --interface=text
 * https://sourceforge.net/projects/z88dk/files/latest/download  
 * https://github.com/adamdunkels/ubasic  
 * https://www.cnblogs.com/cway/p/12794979.html  
+
+## bootBasic, bootOS   
+https://blog.csdn.net/weixin_42169971/article/details/116949435  
+https://github.com/nanochess/bootOS  
