@@ -25,7 +25,11 @@ emu8080_java_v3.rar
 * 不过仔细想想，研究basic诸如bas-int之类的实现，其实有一点点用，因为它很有可能是可重入的  
 （调用栈短而且有一个大的执行循环），类似于onscripter。相比而言，lua不太适合做成可重入抢占式，  
 虽然lua是可以挂起来，不过很容易循环出不去，无法主动将其挂起
-* https://github.com/weimingtom/tinybasic_cpp  
+* https://github.com/weimingtom/tinybasic_cpp
+
+## (IMP) tinybasic c and cpp port, with setbuf 0    
+* (IMP) https://github.com/weimingtom/mt300nv2_playground/blob/master/tinybasic-pmachapman/tinybasic.c  
+* (IMP) https://github.com/weimingtom/mt300nv2_playground/blob/master/tinybasic_cpp/tinybasic.cpp  
 
 ## uBASIC - A really tiny BASIC interpreter  
 * https://github.com/adamdunkels/ubasic  
