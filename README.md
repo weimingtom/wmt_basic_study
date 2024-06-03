@@ -2,6 +2,7 @@
 My Basic Language study
 
 ## TODO  
+* (TODO) something in this: https://github.com/weimingtom/wmt_yacc_study/blob/master/README.md  
 * (done) port back to C, tinybasic_cpp    
 * https://github.com/Timu5/BasicSharp  
 * https://github.com/microsoft/GW-BASIC  
@@ -72,6 +73,22 @@ emu8080_java_v3.rar
 * (support mingw, TinyBASIC.c) https://github.com/amihart/MIPSelBinaries  
 * (only support DOSBOX Turbo C 2.0, TC2) https://github.com/noczero/PASCAL-DAP/blob/master/Tubes/References/HPSource/Source16/C/BAS-INT/BAS-INT.C  
 
+## BAS-INT, TinyBASIC  
+* 以前有本书叫《编程高手箴言》，里面提到一个basic解释器（只能加载文件），  
+有人吐槽过这个代码：《用C语言写解释器（一）——我们的目标》，  
+主要是缺少了一些函数导致无法编译。其实这份代码bas-int是  
+来源于另一篇文章《Building Your Own C Interpreter》，  
+我试过只能用Turbo C 2.0编译运行（当然运行也有问题，后面说），  
+可以修改用mingw编译，但运行不出效果，有人修改过（TinyBASIC.c），  
+可以运行出效果。另外运行的脚本有要求，不能在结尾回车加空行，而且要在文件最后加一个空格  
+* https://www.drdobbs.com/cpp/building-your-own-c-interpreter/184408184  
+* https://github.com/dremwilly/CANBas  
+* (only exe, source not complete) 编程高手箴言_第四章  
+* (support mingw, TinyBASIC.c) https://github.com/amihart/MIPSelBinaries  
+* (only support DOSBOX Turbo C 2.0, TC2) https://github.com/noczero/PASCAL-DAP/blob/master/Tubes/References/HPSource/Source16/C/BAS-INT/BAS-INT.C  
+* 运行的.bas脚本有要求，不能在结尾回车加空行，而且要在文件最后加一个空格  
+* search baidupan, bas-int_v3_必须用DOSBOX_TC2编译才能运行_mingw只能编译运行tinybasic.7z  
+
 ## my_basic  
 * https://github.com/paladin-t/my_basic  
 * search baidupan, my_basic_v1_mingw_run_sunccess.rar  
@@ -121,11 +138,13 @@ exit
 ## Basic 趣味程序选  
 
 ## 101 BASIC Computer Games  
-我顺便找到一本书《101 BASIC Computer Games》，这本书比较有名，  
+* 我顺便找到一本书《101 BASIC Computer Games》，这本书比较有名，  
 然后有人把它移植到CSharp和Java，在gh上：basic-computer-games。  
 不过应该没有中文翻译本，配图的，我觉得很有趣，我怀疑以前图书馆会有很多这类旧书，  
 毕竟我在图书馆找到过更古老的编程语言的代码书，全是示例代码。  
 也可以参考这篇《复活80年代的游戏代码，它们出自第一本售出百万册的计算机书籍》  
+* https://github.com/coding-horror/basic-computer-games  
+* https://github.com/treytomes/ecma_basic  
 
 ## A Collection of old classic GW-Basic, BASICA, Applesoft BASIC, MSX BASIC and others.  
 * https://github.com/jonatasdemello/gwbasic  
@@ -240,3 +259,7 @@ pcbasic --interface=text
 * https://github.com/nanochess/bootBASIC  
 * https://blog.csdn.net/weixin_42169971/article/details/116949435  
 * https://github.com/nanochess/bootOS  
+
+## 用C语言写BASIC解释器
+* https://github.com/zzp-me/_posts/blob/a02badba2aa5a4c3afb7c6829bf36c01e4311662/2009-10-18-basic-interpreter-in-c-1.md  
+* https://blog.csdn.net/zy1049677338/article/details/80668918  
