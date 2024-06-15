@@ -268,3 +268,16 @@ pcbasic --interface=text
 ## 用C语言写BASIC解释器
 * https://github.com/zzp-me/_posts/blob/a02badba2aa5a4c3afb7c6829bf36c01e4311662/2009-10-18-basic-interpreter-in-c-1.md  
 * https://blog.csdn.net/zy1049677338/article/details/80668918  
+
+## bas  
+* bas, basic interpreter  
+* http://www.moria.de/~michael/bas/  
+* https://github.com/paulwratt/bas-2.5-plus  
+* https://github.com/PX4/NuttX-apps/tree/px4_firmware_nuttx-10.3.0%2B/interpreters/bas  
+* https://github.com/apache/nuttx-apps  
+```
+其实nuttx-apps也有一些跟buildroot中所收录的不同的脚本引擎库，例如wasm-micro-runtime和wasm3。
+还有minibasic好像是一个4000行的单文件basic解释器，但我觉得还能缩到1000行以内。
+还有bas好像是另一个ANSI BASIC解释器，好像在哪里看见过，但记不起来，出处是moria.de
+```
+* https://www.thefreecountry.com/compilers/basic.shtml  
