@@ -11,6 +11,12 @@ My Basic Language study
 * (TODO) tramm i8080 html emulator, Emu8080, Intel 8080 CPU Emulator  
 emu8080_java_v3.rar  
 
+## How to exit BASIC  
+* SYSTEM (for pcbasic)    
+* EXIT  
+* QUIT  
+* BYE ​​​  
+
 ## (IMP) work_emu8080  
 * https://github.com/weimingtom/emu8086_playground  
 * 待整理, work_emu8080_20230910.7z  
