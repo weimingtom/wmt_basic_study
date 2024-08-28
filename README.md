@@ -289,6 +289,39 @@ pcbasic --interface=text
 * https://www.thefreecountry.com/compilers/basic.shtml  
 
 # S-BASIC, SHARP MZ-700  
+* test
+```
+https://sourceforge.net/projects/mz800emu/
+mz800emu-win32-stable-1.0.8-rev_237.rar
+run MZ-800 - 32 bit.bat, press c to load .mzf  
+or press Alt+K to show keyboard  
+
+1Z-013B.zip
+kbasicv5.zip
+kostlivec.zip
+https://original.sharpmz.org/mz-700/dldos.htm
+```
+* note
+```
+又找到一个新的BASIC语言解释器，叫1Z-013B，可以用MZ-700模拟器运行，
+例如Sharp MZ-800 Emulator（sourceforge的mz800emu），效果如下。
+键盘和现在的键盘不同，可以用Alt+K唤出。ROM可以从sharpmz的下载栏目获得，
+格式是mzf。MZ-700是8位机器，基于Z80，我最开始是从咸鱼知道这个（最近）
+```
+* not good
+```
+mzwin_0099.zip
+mzwin_0099_v1_not_good.7z
+roms.zip
+http://mz-800.xf.cz:8080/download.htm
+
+cannot run?
+http://sourceforge.net/projects/mz800em/
+https://www.math.ucdavis.edu/~mkoeppe/mz800/
+
+not good
+https://takamin.github.io/mz700-js/emu.html
+```
 
 # MSX BASIC  
 
