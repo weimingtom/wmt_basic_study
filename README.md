@@ -288,7 +288,7 @@ pcbasic --interface=text
 ```
 * https://www.thefreecountry.com/compilers/basic.shtml  
 
-# S-BASIC, SHARP MZ-700  
+# S-BASIC (1Z-013B), SHARP MZ-700  
 * test
 ```
 https://sourceforge.net/projects/mz800emu/
