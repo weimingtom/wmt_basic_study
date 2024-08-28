@@ -287,3 +287,8 @@ pcbasic --interface=text
 还有bas好像是另一个ANSI BASIC解释器，好像在哪里看见过，但记不起来，出处是moria.de
 ```
 * https://www.thefreecountry.com/compilers/basic.shtml  
+
+# S-BASIC, SHARP MZ-700  
+
+# MSX BASIC  
+
