@@ -307,6 +307,10 @@ https://original.sharpmz.org/mz-700/dldos.htm
 例如Sharp MZ-800 Emulator（sourceforge的mz800emu），效果如下。
 键盘和现在的键盘不同，可以用Alt+K唤出。ROM可以从sharpmz的下载栏目获得，
 格式是mzf。MZ-700是8位机器，基于Z80，我最开始是从咸鱼知道这个（最近）
+
+(TODO) z80 see
+http://savannah.nongnu.org/projects/z80asm  
+https://sourceforge.net/projects/z88dk/files/latest/download  
 ```
 * not good
 ```
