@@ -34,7 +34,7 @@ emu8080_java_v3.rar
 虽然lua是可以挂起来，不过很容易循环出不去，无法主动将其挂起
 * https://github.com/weimingtom/tinybasic_cpp
 
-## (IMP) tinybasic c and cpp port, with setbuf 0    
+## (IMP) tinybasic c and cpp port, with setbuf 0 (from BAS-INT)       
 * (IMP) https://github.com/weimingtom/mt300nv2_playground/blob/master/tinybasic-pmachapman/tinybasic.c  
 * (IMP) https://github.com/weimingtom/mt300nv2_playground/blob/master/tinybasic_cpp/tinybasic.cpp  
 
