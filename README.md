@@ -83,6 +83,9 @@ emu8080_java_v3.rar
 * (only exe, source not complete) 编程高手箴言_第四章  
 * (support mingw, TinyBASIC.c) https://github.com/amihart/MIPSelBinaries  
 * (only support DOSBOX Turbo C 2.0, TC2) https://github.com/noczero/PASCAL-DAP/blob/master/Tubes/References/HPSource/Source16/C/BAS-INT/BAS-INT.C  
+* see https://cubeatsystems.com/ntbasic/resources/ntbasic-v0.1.1.tar.gz  
+BAS-INT.ZIP is the original source codes from http://www.programmersheaven.com/download/16060/Download.aspx
+see https://cubeatsystems.com/ntbasic/index.html  
 
 ## BAS-INT, TinyBASIC  
 * 以前有本书叫《编程高手箴言》，里面提到一个basic解释器（只能加载文件），  
@@ -328,3 +331,6 @@ https://takamin.github.io/mz700-js/emu.html
 
 # MSX BASIC  
 
+# Natural Tiny Basic (NT-Basic), from BAS-INT.ZIP, see ntbasic-v0.1.1.tar.gz/ref    
+* https://cubeatsystems.com/ntbasic/index.html  
+* search ntbasic-v0.3.0.tar.gz  
