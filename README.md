@@ -336,3 +336,7 @@ https://takamin.github.io/mz700-js/emu.html
 * search ntbasic-v0.3.0.tar.gz  
 
 # QBASIC  
+
+## Avalonia Visual Basic 6  
+* C# impletation of VB6 IDE, also can be used in chrome  
+* https://github.com/BAndysc/AvaloniaVisualBasic6  
