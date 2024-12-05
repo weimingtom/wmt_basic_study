@@ -400,3 +400,11 @@ https://github.com/CrazyPeter/PlayVisualNovelsOniOS
 
 https://github.com/vn-tools/arc_unpacker
 ```
+
+## light.vn
+* https://lightvn.net/download/  
+* https://github.com/SoulEngineProject/Light.vn  
+* https://github.com/xiakkto/Light.vn-Chinese-Wiki/wiki  
+* https://soulengineproject.itch.io/lightvn  
+* Light.vn.release.16.4.2-en_240806_1255.zip  
+* Light.vn.release.16.5.1_240816_1912.zip  
