@@ -343,3 +343,7 @@ https://takamin.github.io/mz700-js/emu.html
 
 ## Open Basic  
 * ob190.zip  
+
+## 40KB BASIC
+https://minibots.wordpress.com/2024/06/05/emulador-de-nec-pc-8001-con-lilygo-ttgo-vga32/  
+https://github.com/basara767676/PC8001FabGL  
