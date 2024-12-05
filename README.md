@@ -373,4 +373,30 @@ https://takamin.github.io/mz700-js/emu.html
 * https://web.archive.org/web/20050308143414/http://waffle.bunkasha.co.jp/zau/akane-src-010909.zip  
 * http://waffle.bunkasha.co.jp/zau/index.html  
 * https://web.archive.org/web/20070416235126/http://otd10.jbbs.livedoor.jp/1000011759/bbs_plain  
+```
+TODO：
+onscripter-libretro加载narcissu for psp β.zip会崩溃
 
+bt搜索，magnet搜索
+https://en.btdig.com/search?order=0&q=さよならを教えて+
+
+https://ultrapre.github.io/blog.ztjal.info/index.html
+
+[其他] 我想用C++做一个制作AVG游戏的 制作软件 开发一套引擎 [复制链接]
+https://www.rpgchina.net/forum.php?mod=viewthread&tid=32705
+
+http://harupspgame.blog64.fc2.com/blog-entry-230.html
+
+TODO，baidupan, NSCRIPTER_OG.7z
+
+https://thenewleafjournal.com/narcissu-insani-version-vn-review/
+https://web.archive.org/web/20230222204643/http://stage-nana.sakura.ne.jp/narcissu.htm
+http://altogether.insani.org/2005/resources/index/phase00.html
+narcissu
+
+onsplayer
+http://onsplayer.cn
+https://github.com/CrazyPeter/PlayVisualNovelsOniOS
+
+https://github.com/vn-tools/arc_unpacker
+```
