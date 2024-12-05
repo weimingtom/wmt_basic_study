@@ -353,3 +353,24 @@ https://takamin.github.io/mz700-js/emu.html
 
 ## z80 basic  
 * https://www.bbcbasic.co.uk/bbcbasic/z80basic.html  
+
+## 大昔につくったnscripter版narcissuのPSP移植版貼っとく
+* https://archive.org/details/narcissu-for-psp_20230904_0718  
+* https://x.com/owasikohu/status/1825212321863811264  
+* narcissu for psp β.zip  
+
+## PSP-Archive/ONScripter-for-PSP  
+* https://github.com/PSP-Archive/ONScripter-for-PSP  
+
+## [分享]用ONScripter在PocketPC上玩PC的美少女AVG  
+* https://www.mobile01.com/topicdetail.php?f=129&t=1113684  
+
+## To Heart2動いた~。  
+* https://nyanonon.hatenablog.com/entry/20051012/p1  
+* https://web.archive.org/web/20050404193721/http://pyon.org/furukawa/watasimo/waffleppc.html  
+* https://web.archive.org/web/20050308143414/http://waffle.bunkasha.co.jp/zau/index.html  
+* あかね  
+* https://web.archive.org/web/20050308143414/http://waffle.bunkasha.co.jp/zau/akane-src-010909.zip  
+* http://waffle.bunkasha.co.jp/zau/index.html  
+* https://web.archive.org/web/20070416235126/http://otd10.jbbs.livedoor.jp/1000011759/bbs_plain  
+
