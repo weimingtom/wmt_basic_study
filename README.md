@@ -356,3 +356,32 @@ https://takamin.github.io/mz700-js/emu.html
 
 ## (Closed source) apple1 basic rom    
 * https://github.com/alangarf/apple-one/blob/master/roms/basic.hex  
+
+## apple1/apple2 basic  
+* https://www.scullinsteel.com/apple1/#BASIC
+* https://github.com/whscullin/apple2js#readme
+* https://github.com/whscullin/apple1js
+* https://www.scullinsteel.com/apple1/#BASIC
+```
+运行whscullin/apple1js的BASIC解释器。方法：
+（1）通过非井号后缀链接打开www.scullinsteel.com/apple1/
+（2）load按钮然后下拉选择BASIC
+（3）等待中间红色进度条充满（可以按CLS按键清屏）
+（3）加载完成后显示>字符，就可以输入BASIC语句了
+
+运行whscullin/apple2js的BASIC解释器。方法：
+(1)最开始打开www.scullinsteel.com/apple2/
+（2）在显示APPLE ][的时候无法输入内容，而且加载按钮中找不到BASIC，
+但其实可以直接按RESET按键，重启后看到]提示符，并且DISK 1的灯熄灭
+（2）在]提示符后面输入BASIC脚本回车即可执行
+```
+* Java apple2  
+git: apple2emulator.rar  
+eclipse: apple2.rar  
+```
+我看过gh上应该没有我之前可以运行的Java版Apple2模拟器（我以前好像说过这个问题），
+原因不明，不过这东西可能只是方便研究6502汇编语言，
+就是说基于这些模拟器甚至可以自己编译磁带ROM然后运行——
+当然要先找到合适的6502汇编编译器，但我不清楚具体怎么操作
+```
+
