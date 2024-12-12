@@ -353,3 +353,6 @@ https://takamin.github.io/mz700-js/emu.html
 
 ## z80 basic  
 * https://www.bbcbasic.co.uk/bbcbasic/z80basic.html  
+
+## (Closed source) apple1 basic rom    
+* https://github.com/alangarf/apple-one/blob/master/roms/basic.hex  
