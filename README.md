@@ -390,3 +390,11 @@ eclipse: apple2.rar
 
 ## a1basic, Apple I BASIC  
 * https://github.com/brouhaha/a1basic  
+```
+虽然看上去用Apple 1、Apple 2（Apple I和Apple II）模拟器跑BASIC很简单，
+但其实如果真的要做到源码编译，反汇编成可用的6502汇编代码，这个过程可能就很难，
+gh上有人反汇编了至少需要2000多行，这和8086下的
+TBASIC（TINY BASIC FOR INTEL 8086 v1.1）差不多行数
+
+https://github.com/weimingtom/emu8086_playground/blob/master/tbasic/TBASIC_MOD.ASM  
+```
