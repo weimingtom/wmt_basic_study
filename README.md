@@ -398,3 +398,10 @@ TBASIC（TINY BASIC FOR INTEL 8086 v1.1）差不多行数
 
 https://github.com/weimingtom/emu8086_playground/blob/master/tbasic/TBASIC_MOD.ASM  
 ```
+
+## msbasic  
+* https://github.com/beneater/msbasic
+* https://github.com/mist64/msbasic  
+* https://www.youtube.com/watch?v=XlbPnihCM0E
+* https://hackaday.com/2025/04/05/ben-eater-vs-microsoft-basic/
+* https://x.com/hackaday/status/1908748328692834749
