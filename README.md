@@ -410,3 +410,19 @@ https://github.com/weimingtom/emu8086_playground/blob/master/tbasic/TBASIC_MOD.A
 * https://nrtdrv.sakura.ne.jp/gbasic/
 * https://x.com/naruto2413/status/1116834606953586688
 * https://web.archive.org/web/20160424162952/http://www.tni.nl/products/gbasic20111228.zip
+* 转 // 小霸王G-BASIC(Family BASIC)示例程序之马里奥八方行走  
+https://www.bilibili.com/video/BV1UE4m1R7Sr/  
+```
+小霸王学习机说明书上的一个程序,可以在Family BASIC和小霸王G-BASIC中运行。
+（我参考的是网上下载的说明书）
+
+代码：
+5 CLS '如果在"BG GRAPHIC"画了背景，则改为 VIEW
+10 SPRITE ON
+20 CGSET 1,1
+30 FOR N=0 TO 7
+40 DEF MOVE(N)=SPRITE(0,N+1,3,255,0,0)
+50 NEXT
+60 MOVE 0,1,2,3,4,5,6,7
+70 END
+```
