@@ -426,3 +426,9 @@ https://www.bilibili.com/video/BV1UE4m1R7Sr/
 60 MOVE 0,1,2,3,4,5,6,7
 70 END
 ```
+* fceux-2.6.6-win32.7z, Family BASIC (Japan) (v3.0).nes
+```
+终于把Family BASIC跑起来了。好像不能用VirtuaNes，因为它有些日文按键按不出来（例如乘号）。
+可以用fceux代替，但fceux有个问题是它的键盘被快捷键给覆盖了，需要手工把所有快捷键clear然后保存，
+才能按出一些键来——总体来说没有用，因为这个Family BASIC不支持浮点运算，而且它的乘法很容易溢出 ​​​
+```
