@@ -437,3 +437,5 @@ If you use fceux to play family basic, please clear all hot keys first
 ```
 * FP-BASIC(V3.3).nes, support float and English keyboard  
 https://gitee.com/zmwcodediy/f-basic-demo/blob/master/VirtuaNESex(071111)/FP-BASIC(V3.3).nes  
+* SUBOR小霸王中英文电脑学习机-用户指南-zip.pdf  
+https://gitcode.com/Open-source-documentation-tutorial/df654  
