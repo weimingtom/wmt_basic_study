@@ -437,5 +437,11 @@ If you use fceux to play family basic, please clear all hot keys first
 ```
 * FP-BASIC(V3.3).nes, support float and English keyboard  
 https://gitee.com/zmwcodediy/f-basic-demo/blob/master/VirtuaNESex(071111)/FP-BASIC(V3.3).nes  
+```
+上次说的f-basic/g-basic的问题，其实这个问题已经有人研究过，
+如果要在fc上运行浮点版的basic，需要用另外一个rom才行：FP-BASIC(V3.3).nes，
+甚至这个rom不需要日文键盘布局，直接根据英文键盘布局输入就可以了，
+然后这个rom是在gitee的f-basic-demo项目里面 ​​​
+```
 * SUBOR小霸王中英文电脑学习机-用户指南-zip.pdf  
 https://gitcode.com/Open-source-documentation-tutorial/df654  
